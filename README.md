@@ -1,1 +1,1 @@
-# Deep-Cross-Modal-Face-Naming-
+# Deep-Cross-Modal
